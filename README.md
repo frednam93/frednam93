@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frednam93
-- 👀 I’m interested in sound event detection, sound localization, sound separation, acoustics, anything related to audio/speech and deep learning
+- 👀 I’m interested in Auditory Intelligence/Machine Listening, specifically in sound event detection(SED), sound event localization and detection (SELD), acoustics, anything related to audio/speech and deep learning
 - 💞️ I’m looking to collaborate on sound event detection
 - 📫 How to reach me: frednam@kaist.ac.kr
 
